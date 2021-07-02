@@ -7,6 +7,8 @@ public class Cliente extends Umano {
 	protected String indirizzo;
 	protected String telefono;
 	protected String email;
+
+//ciao
 	
 	
 	protected ArrayList<Veicolo> veicoliCliente=new ArrayList<>();

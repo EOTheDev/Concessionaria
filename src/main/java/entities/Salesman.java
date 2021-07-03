@@ -2,7 +2,6 @@ package entities;
 
 import java.util.ArrayList;
 
-import com.sun.org.apache.bcel.internal.generic.RETURN;
 
 public class Salesman extends Umano{
 	protected int SALARIO_BASE=1250;
